@@ -1,0 +1,9 @@
+{
+  "name": "ecmascript-simd",
+  "version": "1.0.0",
+  "description": "SIMD polyfill",
+  "url": "http://tc39.github.io/ecmascript_simd",
+  "repository": "tc39/ecmascript_simd",
+  "license": "zlib",
+  "main": "src/ecmascript_simd.js"
+}
